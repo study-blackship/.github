@@ -1,12 +1,5 @@
-## Hi there 👋
+# Study BlackShip
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BlackShip은 직장에서 만난 멤버들로 시작해서 얇고 길게 운영되고 있는 스터디 모임입니다. 대부분 주니어 개발자로 구성되어 있으며 프론트엔드, 백엔드로 짧은 실무경력을 가지고 있는 멤버들이 있습니다. 경력만 있는 시니어가 아닌 내실있는 실력을 갖춘 진정한 시니어 개발자가 되고자 합니다. 그리고 언젠가는 선두그룹에서 선진화된 개발기술 및 개발문화를 이끌어나갈 수 있도록 목표를 잡고 있습니다.
